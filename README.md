@@ -1,6 +1,6 @@
 # Noto Emoji Figma Library
 
-The Noto Emoji Library is a Figma community file that contains the Noto emojis as a components categorized in pages by emoji type. 
+The Noto Emoji Library is a [Figma community file](https://www.figma.com/community/file/1162541361730712423) that contains the Noto emojis as a components categorized in pages by emoji type. 
 
 ## Changelog
 
